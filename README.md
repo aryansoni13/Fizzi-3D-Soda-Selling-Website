@@ -22,7 +22,7 @@ Welcome to the Fizzi repository! This project is a dynamic and interactive soda 
 
 To run the project locally, clone this repository and install the necessary dependencies:
 ```
-git clone https://github.com/your-username/fizzi.git
+git clone https://github.com/aryansoni13/fizzi.git
 ```
 ```
 cd fizzi
