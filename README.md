@@ -1,8 +1,8 @@
-Fizzi - 3D Soda Selling Website
+#Fizzi - 3D Soda Selling Website
 
 Welcome to the Fizzi repository! This project is a dynamic and interactive soda selling website that delivers a unique shopping experience through immersive 3D graphics.
 
-Technologies Used
+##Technologies Used
 
 - Prismic: For headless CMS capabilities, allowing easy content management and dynamic updates.
 - Next.js: A React framework for building server-rendered applications with seamless routing.
